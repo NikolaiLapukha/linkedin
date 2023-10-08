@@ -1,0 +1,14 @@
+<svg width="18.000000" height="18.000000" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_998">
+			<rect id="Feather Icons / home" width="18.000000" height="18.000000" fill="white"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip2_998)">
+		<path id="Vector" d="M9 1.5L15.75 6.75L15.75 15C15.75 15.3978 15.5918 15.7793 15.3105 16.0607C15.0293 16.3419 14.6475 16.5 14.25 16.5L3.75 16.5C3.35254 16.5 2.9707 16.3419 2.68945 16.0607C2.4082 15.7793 2.25 15.3978 2.25 15L2.25 6.75L9 1.5Z" stroke="#604DCF" stroke-width="1.500000" stroke-linejoin="round"/>
+		<path id="Vector" d="M6.75 16.5L6.75 9L11.25 9L11.25 16.5" stroke="#604DCF" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
